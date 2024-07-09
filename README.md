@@ -31,7 +31,7 @@ Clone the repository:
 
 sh
 Copy code
-git clone https://github.com/yourusername/mvc-tech-blog.git
+git clone https://github.com/biggielittles/mvc-tech-blog.git
 cd mvc-tech-blog
 Install dependencies:
 
