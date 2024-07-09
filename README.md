@@ -53,45 +53,7 @@ npm start
 Access the application:
 Open your browser and go to http://localhost:3000
 
-Project Structure
-bash
-Copy code
-mvc-tech-blog/
-│
-├── config/
-│   └── db.js          # Database configuration
-│
-├── controllers/
-│   ├── authController.js
-│   ├── postController.js
-│   └── commentController.js
-│
-├── models/
-│   ├── User.js
-│   ├── Post.js
-│   └── Comment.js
-│
-├── public/
-│   ├── css/
-│   └── js/
-│
-├── routes/
-│   ├── index.js
-│   ├── auth.js
-│   ├── posts.js
-│   └── comments.js
-│
-├── views/
-│   ├── auth/
-│   ├── posts/
-│   ├── comments/
-│   └── partials/
-│
-├── .env
-├── .gitignore
-├── app.js             # Main application file
-├── package.json
-└── README.md
+
 Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
